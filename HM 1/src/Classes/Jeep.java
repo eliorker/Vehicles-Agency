@@ -2,7 +2,12 @@ package Classes;
 import Interface.CommercialUse;
 import Interface.MotorizedVehicle;
 import Vehicles.LandVehicles;
-
+/**
+ * @author Elior Kertsman
+ * @ID : 313565095
+ * @Campus : Ashdod
+ *
+ */
 
 public class Jeep extends LandVehicles implements CommercialUse, MotorizedVehicle {
 

@@ -1,7 +1,12 @@
 package Classes;
 import Interface.MotorizedVehicle;
 import Vehicles.WaterVehicles;
-
+/**
+ * @author Elior Kertsman
+ * @ID : 313565095
+ * @Campus : Ashdod
+ *
+ */
 public class Frigate extends WaterVehicles implements MotorizedVehicle {
 
 	private int EngineLife;

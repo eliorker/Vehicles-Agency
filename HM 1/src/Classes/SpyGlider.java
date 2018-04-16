@@ -1,7 +1,12 @@
 package Classes;
 import Interface.NonMotorizedVehicle;
 import Vehicles.AirVehicles;
-
+/**
+ * @author Elior Kertsman
+ * @ID : 313565095
+ * @Campus : Ashdod
+ *
+ */
 public class SpyGlider extends AirVehicles implements NonMotorizedVehicle   {
 
 	private String EnergyType;
